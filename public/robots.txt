@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studiotche.github.io/nutricionista-alana-soares/sitemap-index.xml
+Sitemap: https://studiotche.github.io/nutricionista-milena-lehmann/sitemap-index.xml

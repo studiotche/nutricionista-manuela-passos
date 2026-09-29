@@ -28,10 +28,13 @@
   --ink: #1c1a16;
   --muted: #5e5951;
   --cream: #e6ded3;
-  --paper: #EBEBED;
-  --sage: #6e8172;
-  --sage-dark: #465549;
-  --sage-tint: #dbe2dc;
+  --paper: #F2E9D8;
+  --papper: #F2E9D8;
+  --sage: #74A09F;
+  --sage-dark: #3D6B6A;
+  --sage-tint: #dce8e8;
+  --btn-rose: #c0717a;
+  --btn-rose-hover: #9B4F58;
   --terracotta: #634d40;
   --terracotta-deep: #43332a;
   --terracotta-light: #ece2d7;
@@ -263,8 +266,8 @@ a {
   justify-content: center;
   text-align: center;
   gap: 16px;
-  border: 1px solid var(--sage-dark);
-  background: var(--sage-dark);
+  border: 1px solid var(--btn-rose);
+  background: var(--btn-rose);
   color: var(--white);
   padding: 0 24px;
   border-radius: 4px;
@@ -278,8 +281,8 @@ a {
 
 .button:hover {
   transform: translateY(-3px);
-  background: var(--sage-dark);
-  border-color: var(--sage-dark);
+  background: var(--btn-rose-hover);
+  border-color: var(--btn-rose-hover);
 }
 
 .button:active {
@@ -290,7 +293,7 @@ a {
 .button:focus-visible,
 a:focus-visible,
 summary:focus-visible {
-  outline: 3px solid rgba(129, 80, 42, .4);
+  outline: 3px solid rgba(192, 113, 122, .4);
   outline-offset: 4px;
 }
 
@@ -301,14 +304,14 @@ summary:focus-visible {
 }
 
 .button-light {
-  background: var(--cream);
-  border-color: var(--cream);
-  color: var(--ink);
+  background: var(--btn-rose);
+  border-color: var(--btn-rose);
+  color: var(--white);
 }
 
 .button-light:hover {
-  background: var(--paper);
-  border-color: var(--paper);
+  background: var(--btn-rose-hover);
+  border-color: var(--btn-rose-hover);
 }
 
 .text-link {
@@ -500,13 +503,13 @@ summary:focus-visible {
 }
 
 .hero .button {
-  background: var(--terracotta-deep);
-  border-color: var(--terracotta-deep);
+  background: var(--btn-rose);
+  border-color: var(--btn-rose);
 }
 
 .hero .button:hover {
-  background: var(--sage);
-  border-color: var(--sage);
+  background: var(--btn-rose-hover);
+  border-color: var(--btn-rose-hover);
 }
 
 .hero-actions {
