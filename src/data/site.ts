@@ -23,7 +23,7 @@ export const site = {
     "https://www.google.com/maps/place/Nutricionista+Milena+Lehmann+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+Funcional+e+Emagrecimento/@-29.6911272,-51.1396324,17z/data=!4m15!1m8!3m7!1s0x951943062cf1e039:0x2fc3be259137947f!2sNutricionista+Milena+Lehmann+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+Funcional+e+Emagrecimento!8m2!3d-29.6911272!4d-51.1396324!10e5!16s%2Fg%2F11y9h0mwd3!3m5!1s0x951943062cf1e039:0x2fc3be259137947f!8m2!3d-29.6911272!4d-51.1396324!16s%2Fg%2F11y9h0mwd3?entry=ttu&g_ep=EgoyMDI2MDkyNy4wIKXMDSoASAFQAw%3D%3D",
   googleRating: {
     score: "5,0",
-    reviews: 6,
+    reviews: 13,
   },
   mapsEmbedUrl:
     "https://maps.google.com/maps?q=-29.6911272,-51.1396324&z=17&hl=pt-BR&output=embed",
