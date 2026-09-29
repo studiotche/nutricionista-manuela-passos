@@ -871,7 +871,7 @@ summary:focus-visible {
   height: 100%;
   pointer-events: none;
   z-index: 0;
-  opacity: 0.22;
+  opacity: 0.05;
   background-repeat: no-repeat;
   background-position: left center, right center;
   background-size: auto 100%, auto 100%;
@@ -1357,17 +1357,35 @@ summary:focus-visible {
 }
 
 .contact-card {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
   display: grid;
   grid-template-columns: 1.1fr .7fr;
   gap: 80px;
   align-items: center;
   background-color: var(--sage-dark);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   border-radius: 4px;
   color: var(--white);
   padding: clamp(46px, 7vw, 86px);
+}
+
+.contact-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--contact-bg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.08;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.contact-card>* {
+  position: relative;
+  z-index: 1;
 }
 
 .contact-details {
@@ -2072,7 +2090,7 @@ body.menu-open {
   }
 
   .process-bg {
-    opacity: 0.12;
+    opacity: 0.05;
     background-size: auto 65%, auto 65%;
   }
 
