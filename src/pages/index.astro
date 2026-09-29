@@ -282,15 +282,11 @@ const jsonLd = {
     </section>
 
     <section class="section process-section" id="metodo">
-      <img
+      <div
         class="process-bg"
-        src={asset(site.assets.processBg)}
-        alt=""
+        style={`background-image: url('${asset(site.assets.processBg)}'), url('${asset(site.assets.processBg)}');`}
         aria-hidden="true"
-        width="1737"
-        height="905"
-        loading="lazy"
-      />
+      ></div>
       <div class="container process-grid">
         <div class="process-intro">
           <p class="eyebrow">Abordagem integrada</p><h2>
@@ -582,7 +578,7 @@ const jsonLd = {
     <section class="contact-section" id="contato">
       <div
         class="container contact-card"
-        style={`background-image: linear-gradient(rgba(61, 107, 106, .94), rgba(61, 107, 106, .94)), url('${asset(site.assets.processBg)}');`}
+        style={`background-image: url('${asset(site.assets.processBg)}');`}
       >
         <div>
           <p class="eyebrow eyebrow-light">Agende sua consulta</p><h2>

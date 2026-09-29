@@ -861,6 +861,7 @@ summary:focus-visible {
   position: relative;
   isolation: isolate;
   background: var(--cream);
+  overflow: hidden;
 }
 
 .process-bg {
@@ -868,9 +869,12 @@ summary:focus-visible {
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: 50% 50%;
-  opacity: 0.1;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.22;
+  background-repeat: no-repeat;
+  background-position: left center, right center;
+  background-size: auto 100%, auto 100%;
 }
 
 .process-grid {
@@ -1357,7 +1361,7 @@ summary:focus-visible {
   grid-template-columns: 1.1fr .7fr;
   gap: 80px;
   align-items: center;
-  background-color: var(--terracotta-deep);
+  background-color: var(--sage-dark);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2065,6 +2069,11 @@ body.menu-open {
   .process-grid {
     grid-template-columns: 1fr;
     gap: 40px;
+  }
+
+  .process-bg {
+    opacity: 0.12;
+    background-size: auto 65%, auto 65%;
   }
 
   .step-item {
