@@ -23,7 +23,7 @@ export const site = {
     "https://www.google.com/maps/place/Nibea+Machado+-+Nutricionista+cl%C3%ADnica%2Fesportiva+em+Est%C3%A2ncia+Velha/@-29.6476533,-51.1748398,17z/data=!3m1!4b1!4m6!3m5!1s0x95194575334312ef:0x6c312b54c3f1beb4!8m2!3d-29.6476533!4d-51.1748398!16s%2Fg%2F11v9_llq32",
   googleRating: {
     score: "5,0",
-    reviews: 6,
+    reviews: 30,
   },
   mapsEmbedUrl:
     "https://maps.google.com/maps?q=-29.6476533,-51.1748398&z=17&hl=pt-BR&output=embed",
