@@ -1912,6 +1912,10 @@ body.menu-open {
     gap: 55px;
   }
 
+  .process-bg {
+    display: none;
+  }
+
   .testimonial-heading {
     grid-template-columns: 1fr .75fr;
     gap: 50px;
@@ -2090,8 +2094,7 @@ body.menu-open {
   }
 
   .process-bg {
-    opacity: 0.05;
-    background-size: auto 65%, auto 65%;
+    display: none;
   }
 
   .step-item {
