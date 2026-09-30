@@ -1,115 +1,116 @@
 export const site = {
-  name: "Milena Lehmann",
-  role: "Nutricionista Clínica Funcional e Emagrecimento",
-  fullRole: "Nutricionista Clínica Funcional e Emagrecimento",
-  city: "Novo Hamburgo",
+  name: "Nibea Machado",
+  role: "Nutricionista Clínica e Esportiva",
+  fullRole: "Nutricionista Clínica e Esportiva",
+  city: "Estância Velha",
   state: "RS",
-  region: "Novo Hamburgo · Campo Bom · Vale do Sinos · Online",
-  crn: "CRN-2 16228D",
+  region: "Estância Velha · Novo Hamburgo · Ivoti · Vale do Sinos · Online",
+  crn: "CRN-2 19127D",
   credentials:
-    "Nutricionista graduada pela Unisinos · Pós-graduada em Nutrição Clínica Funcional · CRN-2 16228D",
-  phoneDisplay: "(51) 99199-0546",
-  phoneLink: "5551991990546",
-  telLink: "tel:+5551991990546",
+    "Nutricionista graduada pela Universidade Feevale · Pós-graduada em Nutrição Esportiva · CRN-2 19127D",
+  phoneDisplay: "(51) 98906-8257",
+  phoneLink: "5551989068257",
+  telLink: "tel:+5551989068257",
   email: "",
-  instagram: "https://www.instagram.com/nutri_milenalehmann/",
+  instagram: "https://www.instagram.com/nibeamachadonutri/",
   hours: [
     {
       days: "Atendimento particular",
-      time: "Presencial (Clínica Unifísio, Novo Hamburgo) e Online · Agendamento via WhatsApp",
+      time: "Presencial (Estância Velha) e Online · Agendamento via WhatsApp",
     },
   ],
   googleProfile:
-    "https://www.google.com/maps/place/Nutricionista+Milena+Lehmann+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+Funcional+e+Emagrecimento/@-29.6911272,-51.1396324,17z/data=!4m15!1m8!3m7!1s0x951943062cf1e039:0x2fc3be259137947f!2sNutricionista+Milena+Lehmann+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+Funcional+e+Emagrecimento!8m2!3d-29.6911272!4d-51.1396324!10e5!16s%2Fg%2F11y9h0mwd3!3m5!1s0x951943062cf1e039:0x2fc3be259137947f!8m2!3d-29.6911272!4d-51.1396324!16s%2Fg%2F11y9h0mwd3?entry=ttu&g_ep=EgoyMDI2MDkyNy4wIKXMDSoASAFQAw%3D%3D",
+    "https://www.google.com/maps/place/Nibea+Machado+-+Nutricionista+cl%C3%ADnica%2Fesportiva+em+Est%C3%A2ncia+Velha/@-29.6476533,-51.1748398,17z/data=!3m1!4b1!4m6!3m5!1s0x95194575334312ef:0x6c312b54c3f1beb4!8m2!3d-29.6476533!4d-51.1748398!16s%2Fg%2F11v9_llq32",
   googleRating: {
     score: "5,0",
-    reviews: 13,
+    reviews: 6,
   },
   mapsEmbedUrl:
-    "https://maps.google.com/maps?q=-29.6911272,-51.1396324&z=17&hl=pt-BR&output=embed",
+    "https://maps.google.com/maps?q=-29.6476533,-51.1748398&z=17&hl=pt-BR&output=embed",
   mapsUrl:
-    "https://www.google.com/maps/place/Nutricionista+Milena+Lehmann+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+Funcional+e+Emagrecimento/@-29.6911272,-51.1396324,17z/data=!4m15!1m8!3m7!1s0x951943062cf1e039:0x2fc3be259137947f!2sNutricionista+Milena+Lehmann+%7C+Nutri%C3%A7%C3%A3o+Cl%C3%ADnica+Funcional+e+Emagrecimento!8m2!3d-29.6911272!4d-51.1396324!10e5!16s%2Fg%2F11y9h0mwd3!3m5!1s0x951943062cf1e039:0x2fc3be259137947f!8m2!3d-29.6911272!4d-51.1396324!16s%2Fg%2F11y9h0mwd3?entry=ttu&g_ep=EgoyMDI2MDkyNy4wIKXMDSoASAFQAw%3D%3D",
+    "https://www.google.com/maps/place/Nibea+Machado+-+Nutricionista+cl%C3%ADnica%2Fesportiva+em+Est%C3%A2ncia+Velha/@-29.6476533,-51.1748398,17z/data=!3m1!4b1!4m6!3m5!1s0x95194575334312ef:0x6c312b54c3f1beb4!8m2!3d-29.6476533!4d-51.1748398!16s%2Fg%2F11v9_llq32",
   seo: {
     title:
-      "Nutricionista Clínica Funcional e Emagrecimento em Novo Hamburgo - Milena Lehmann",
+      "Nutricionista Clínica e Esportiva em Estância Velha - Nibea Machado",
     description:
-      "Nutricionista Milena Lehmann (CRN-2 16228D): especialista em emagrecimento saudável, nutrição clínica funcional, reeducação alimentar sem dietas restritivas e saúde integral em Novo Hamburgo e Online.",
-    url: "https://nutricionistamilenalehmann.com.br/",
-    ogImage: "/assets/images/nutricionista-milenalehmann-hero.webp",
+      "Nutricionista Nibea Machado (CRN-2 19127D): especialista em nutrição esportiva, hipertrofia, emagrecimento sustentável e reeducação alimentar em Estância Velha/RS e Online.",
+    url: "https://studiotche.github.io/nutricionista-nibea-machado/",
+    ogImage: "/assets/images/hero-nibea-machado.webp",
   },
   hero: {
-    eyebrow: "Nutrição Clínica Funcional · Emagrecimento Sem Restrições",
+    eyebrow: "Nutrição Clínica & Esportiva · Saúde e Performance",
     title:
-      "Nutricionista Clínica Funcional e Emagrecimento em Novo Hamburgo",
-    titleHighlight: "Milena Lehmann",
+      "Nutricionista Clínica e Esportiva em Estância Velha",
+    titleHighlight: "Nibea Machado",
     tagline:
-      "Nutrição personalizada e acolhedora <br/> para emagrecer sem terrorismo alimentar",
+      "Nutrição personalizada e com base científica <br/> para atingir suas metas com saúde e consistência",
     description:
-      "Esqueça as dietas radicais e o sofrimento. Com uma abordagem clínica funcional e humanizada, construímos um plano alimentar flexível, prazeroso e adaptado à sua rotina real para conquistar resultados duradouros com energia e saúde.",
+      "Planejamento nutricional estratégico, prático e adaptado à sua rotina real. Conquiste seus objetivos em emagrecimento, hipertrofia, rendimento esportivo e saúde intestinal sem dietas punitivas ou terrorismo alimentar.",
   },
   about: {
-    eyebrow: "Muito prazer, sou a Milena Lehmann!",
+    eyebrow: "Muito prazer, sou a Nibea Machado!",
     title:
-      "Emagrecimento com saúde, ciência e sem terrorismo alimentar",
-    titleHighlight: "sem terrorismo alimentar",
+      "Nutrição esportiva e clínica com ciência, acolhimento e foco nos seus resultados",
+    titleHighlight: "foco nos seus resultados",
     paragraphs: [
-      "Sou Nutricionista graduada pela Unisinos (RS), com especialização em Nutrição Clínica Funcional e registro profissional CRN-2 16228D.",
-      "Acredito profundamente que cuidar da alimentação e da saúde não precisa ser um fardo. Minha missão é conduzir você ao seu objetivo — seja emagrecimento, mais disposição, controle de doenças crônicas ou regulação alimentar — de forma descomplicada, flexível e totalmente adaptada à sua rotina e às suas preferências.",
-      "Em cada consulta, você encontra uma escuta atenta, acolhimento genuíno e estratégias práticas, sem restrições severas ou culpas. Trabalhamos juntos para que cada escolha saudável seja prazerosa e gere bem-estar sustentável para a vida toda.",
+      "Sou Nutricionista graduada pela Universidade Feevale (RS), com pós-graduação em Nutrição Esportiva e registro profissional CRN-2 19127D.",
+      "Acredito que o cuidado nutricional precisa ser estratégico e ao mesmo tempo viável. Minha missão é guiar você na conquista dos seus objetivos — seja o ganho de massa muscular (hipertrofia), emagrecimento sustentável, melhora na performance dos treinos, manejo de alergias alimentares ou reeducação alimentar — de forma descomplicada, segura e adaptada ao seu dia a dia.",
+      "Em cada atendimento, você encontra uma escuta atenta, plano alimentar flexível e acompanhamento contínuo pelo aplicativo e WhatsApp, proporcionando autonomia e bem-estar para toda a vida.",
     ],
   },
   assets: {
-    logo: "/assets/images/logo-nutricionista-milenalehmann.webp",
-    hero: "/assets/images/nutricionista-milenalehmann-hero.webp",
-    heroMobile: "/assets/images/nutricionista-milenalehmann-hero-mobile.webp",
-    about: "/assets/images/sobre-nutricionista-milena-lehmann.webp",
+    logo: "/assets/images/logo-nutricionista-nibea-machado.webp",
+    hero: "/assets/images/hero-nibea-machado.webp",
+    heroMobile: "/assets/images/hero-mobile-nibea-machado.webp",
+    about: "/assets/images/sobre-nibea-machado.webp",
     processBg: "/assets/images/nutricionista-fundo-sessao-agende.webp",
-    consultorio: "/assets/images/consultorio-milena-lehmann.webp",
-    consultorioFachada: "/assets/images/avaliacao-milena-lehmann.webp",
+    consultorio: "/assets/images/consultorio-nibea-machado.webp",
+    consultorioFachada: "/assets/images/fachada-nibea-machado.webp",
+    favicon: "/assets/images/favicon-nibea-machado.webp",
   },
 } as const;
 
 export const specialties = [
   {
     number: "01",
-    icon: "/assets/images/emagrecimento.svg",
-    title: "Emagrecimento Saudável e Sustentável",
-    text: "Perca peso e medidas comendo o que você gosta, sem dietas restritivas e sem culpa, conquistando resultados reais que se mantêm no longo prazo.",
+    icon: "/assets/images/corrida.svg",
+    title: "Nutrição Esportiva e Hipertrofia",
+    text: "Estratégia nutricional focada em ganho de massa magra, força e recuperação eficiente para atletas e praticantes de musculação e esportes.",
     detail:
-      "Planejamento nutricional focado na sua rotina, promovendo queima de gordura e mais energia no dia a dia.",
+      "Periodização e cálculo de macronutrientes individualizados para potencializar seus resultados no treino com energia e constância.",
   },
   {
     number: "02",
-    icon: "/assets/images/maca.svg",
-    title: "Nutrição Clínica Funcional e Reeducação",
-    text: "Investigação aprofundada de sintomas digestivos, alergias alimentares, inflamações e intolerâncias para restaurar seu equilíbrio metabólico.",
+    icon: "/assets/images/emagrecimento.svg",
+    title: "Emagrecimento Saudável e Sustentável",
+    text: "Perca peso e medidas de forma saudável comendo o que você gosta, sem dietas restritivas e preservando sua massa muscular.",
     detail:
-      "Protocolos individualizados para saúde intestinal, imunidade e vitalidade plena.",
+      "Plano flexível ajustado à sua rotina real, promovendo queima de gordura e evitando o indesejado efeito sanfona.",
   },
   {
     number: "03",
-    icon: "/assets/images/hormonal.svg",
-    title: "Prevenção e Doenças Crônicas",
-    text: "Cuidado e acompanhamento especializado para hipertensão, colesterol, diabetes, equilíbrio hormonal e saúde em todas as fases da vida.",
+    icon: "/assets/images/maca.svg",
+    title: "Nutrição Clínica e Reeducação Alimentar",
+    text: "Manejo nutricional para alergias alimentares, queixas digestivas, melhora da disposição diária e controle de marcadores de saúde.",
     detail:
-      "Acompanhamento preventivo e terapêutico para gestantes, adolescentes, adultos e idosos.",
-  }
+      "Protocolos personalizados para saúde intestinal, imunidade e hábitos saudáveis para toda a vida.",
+  },
 ] as const;
 
 export const pillars = [
   {
-    title: "Escuta e Acolhimento",
-    text: "Consulta detalhada para entender seus gostos, rotina, histórico de saúde e objetivos, sem qualquer tipo de julgamento ou fórmulas prontas.",
+    title: "Escuta e Avaliação Detalhada",
+    text: "Consulta cuidadosa para compreender seus hábitos, rotina de treinos, histórico de saúde e objetivos, com foco na sua individualidade.",
     icon: "/assets/images/pagina.svg",
   },
   {
     title: "Plano Realista e Flexível",
-    text: "Cardápio personalizado com escolhas práticas, gostosas e acessíveis. Comer bem com prazer e sem terrorismo alimentar.",
+    text: "Cardápio personalizado com escolhas práticas, equilibradas e saborosas. Comer bem com prazer e sem terrorismo alimentar.",
     icon: "/assets/images/alvo.svg",
   },
   {
     title: "Acompanhamento Contínuo",
-    text: "Suporte próximo para tirar dúvidas, orientar suas escolhas e incentivar sua evolução em cada etapa da sua jornada.",
+    text: "Suporte próximo com aplicativo (Dietbox) e WhatsApp para tirar dúvidas, ajustar rotas e apoiar sua evolução em cada etapa.",
     icon: "/assets/images/pessoas.svg",
   },
 ] as const;
@@ -122,78 +123,78 @@ export const testimonials: {
   profile?: string;
 }[] = [
   {
-    name: "Camila Oliveira",
-    city: "Novo Hamburgo/RS",
-    text: "Desde a primeira consulta me senti muito a vontade. A Nutri Milena me fez perceber que cuidar da alimentação e da saúde não precisa ser tão difícil e que cada esforço diário sempre vale muito a pena. Entendi que existem muitas escolhas saudáveis que são práticas e deliciosas que ajudam no emagrecimento e ainda nos dão energia e disposição. Estou muito contente com os resultados conquistados. 😍",
+    name: "Rosane Becker Flores",
+    city: "Estância Velha/RS",
+    text: "A Nubia é atenciosa e prestativa, gostei muito da consulta e do acompanhamento.",
     profile: site.googleProfile,
   },
   {
-    name: "Thereza Muller",
-    city: "Novo Hamburgo/RS",
-    text: "Milena é uma profissional atenciosa, tranquila e esclarecedora. Estou muito satisfeita com a escolha que fiz. Em menos de um ano tive uma perda significativa de peso e medidas. Super indico. Parabéns Milena.",
+    name: "Caroline Dias Da Silva",
+    city: "Estância Velha/RS",
+    text: "Me conquistou! Falar sobre melhorar a qualidade de vida através de uma alimentação balanceada e compreender a minha rotina foi um super diferencial! Obrigada por se tornar me parceira nessa nova etapa da minha vida",
     profile: site.googleProfile,
   },
   {
-    name: "Clarinha Wobeto Lehmann",
-    city: "Novo Hamburgo/RS",
-    text: "A Nutricionista Milena Lehmann é uma nutricionista muito boa por ser muito preocupada com os seus pacientes para atingirem os seus objetivos ... Eu emagreci 6 quilos em um pouco período de tempo sem deixar de comer as coisas que eu gosto só seguindo as orientações dela ... Gratidão",
+    name: "Nádia dos Santos",
+    city: "Estância Velha/RS",
+    text: "Excelente atendimento! Fui por indicação e também indico. Plano alimentar conforme necessidade individual, sem receitas mirabolantes ou com ingredientes caros. Dieta fácil de manter.",
     profile: site.googleProfile,
   },
   {
-    name: "Celia Silva",
-    city: "Novo Hamburgo/RS",
-    text: "A nutri Milena é um amor!!!! Querida, delicada, extremamente conhecedora dos assuntos relativos à nutrição! Tem muita flexibilidade e opções de sugestão de alimentos, adequando-se às necessidades e gostos do cliente!!!! Adorei!!!!!!",
+    name: "Juliana Fuchs",
+    city: "Estância Velha/RS",
+    text: "Estou muito feliz com o atendimento, atenção da nutricionista. Me sinto com uma maior qualidade de vida desde que estou com o acompanhamento. Tive bons resultados físicos e \"mental\".",
     profile: site.googleProfile,
   },
   {
-    name: "Monique Maria",
-    city: "Novo Hamburgo/RS",
-    text: "Excelente profissional, atenciosa e dedicada! Ela me ajudou a atingir meus objetivos com excelência! Sempre muito atenciosa e cuida com carinho de seus pacientes! Super recomendo!",
+    name: "Aline Alessandra Müller",
+    city: "Estância Velha/RS",
+    text: "Iniciei o acompanhamento com a Nibea através de alergias alimentares ano passado, me acolhendo e desenvolvendo um plano singular, buscando receitas para que eu pudesse passar por esse desafio, desde então seguimos juntas e alcançando outros objetivos!",
     profile: site.googleProfile,
   },
   {
-    name: "Renata paula Tansch",
-    city: "Novo Hamburgo/RS",
-    text: "Ótimo atendimento, profissional super gente boa,sem terrorismo alimentar. Super recomendo A profissional Milena lehmann",
+    name: "Gustavo Anacleto",
+    city: "Estância Velha/RS",
+    text: "Ótima profissional, super indico, adapta-se ao paciente, ajuda muito na sua dieta e em melhorar a saude.",
     profile: site.googleProfile,
-  }
+  },
 ];
 
 export const locations = [
   {
-    city: "Novo Hamburgo",
-    address: "Av. Cel. Frederico Linck, 350",
+    city: "Estância Velha",
+    address: "R. Adolfo Mattes, 350",
     district:
-      "Clínica Unifísio · Rio Branco · Novo Hamburgo/RS · CEP 93336-001",
-    type: "Presencial (Clínica Unifísio) · Campo Bom · Online",
+      "Centro · Estância Velha/RS · CEP 93600-000",
+    type: "Presencial (Estância Velha) · Novo Hamburgo · Online",
   },
 ] as const;
 
 export const faqs = [
   [
     "Onde acontecem as consultas presenciais?",
-    "Os atendimentos presenciais acontecem na Clínica Unifísio, localizada na Av. Cel. Frederico Linck, 350, no bairro Rio Branco em Novo Hamburgo/RS. Um ambiente acolhedor, com fácil acesso e estacionamento para quem vem de Novo Hamburgo, Campo Bom e todo o Vale dos Sinos.",
+    "Os atendimentos presenciais acontecem na Rua Adolfo Mattes, 350, no Centro de Estância Velha/RS (espaço FisioHaus). Um ambiente moderno, acolhedor e com facilidade de acesso para pacientes de Estância Velha, Novo Hamburgo, Ivoti, Dois Irmãos e todo o Vale dos Sinos.",
   ],
   [
     "Você também realiza atendimentos online?",
-    "Sim! Realizo consultas nutricionais online completas por videochamada para pacientes de todo o Brasil e do exterior, com a mesma qualidade, acolhimento e acompanhamento de perto.",
+    "Sim! Realizo consultas nutricionais online completas por videochamada para pacientes de qualquer lugar do Brasil e do exterior, com o mesmo acolhimento, prontuário digital e acompanhamento de perto.",
   ],
   [
-    "Vou precisar cortar o que gosto para emagrecer?",
-    "De forma alguma! Meu método é baseado na nutrição sem terrorismo alimentar. Você aprenderá combinações inteligentes, receitas fáceis e saborosas para emagrecer sem abrir mão dos alimentos que trazem alegria à sua rotina.",
+    "O acompanhamento é indicado apenas para quem treina pesado?",
+    "Não! Embora a nutrição esportiva e a hipertrofia sejam áreas de destaque no meu trabalho, atendo qualquer pessoa que busque emagrecer com saúde, tratar queixas gastrointestinais e alergias alimentares ou simplesmente aprender a comer com equilíbrio.",
   ],
   [
-    "Quais públicos você atende?",
-    "Atendo adultos, adolescentes, gestantes e idosos, com planos alimentares focados em emagrecimento, reeducação alimentar, saúde preventiva e controle de doenças crônicas.",
+    "Vou precisar cortar tudo o que gosto para emagrecer?",
+    "De forma alguma! Trabalho com nutrição baseada em evidências e sem terrorismo alimentar. Você aprenderá como encaixar seus alimentos favoritos com equilíbrio, sem culpa e com foco na constância.",
   ],
   [
     "Como funciona o suporte entre as consultas?",
-    "Você conta com suporte direto via WhatsApp para tirar dúvidas sobre compras de supermercado, leitura de rótulos e adaptações na rotina, garantindo que você nunca se sinta desamparada.",
+    "Você conta com suporte direto via WhatsApp e aplicativo de acompanhamento (Dietbox) para tirar dúvidas sobre refeições, rótulos e escolhas na rotina, garantindo total segurança durante o processo.",
   ],
   [
     "Você avalia ou solicita exames laboratoriais?",
-    "Sim. Realizo avaliação clínica completa e, se necessário, solicito e analiso exames laboratoriais para investigar deficiências nutricionais, alterações metabólicas e hormonais com precisão."
-  ]
+    "Sim. Realizo análise clínica minuciosa e, quando necessário, solicito exames laboratoriais para verificar deficiências nutricionais, parâmetros metabólicos, lipídicos e hormonais com rigor técnico.",
+  ],
 ] as const;
 
-export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Milena! Gostaria de agendar uma consulta.")}`;
+export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Nibea! Gostaria de agendar uma consulta nutricional.")}`;

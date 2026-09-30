@@ -27,7 +27,7 @@ const jsonLd = {
       image: `${site.seo.url.replace(/\/$/, "")}${site.seo.ogImage}`,
       telephone: `+${site.phoneLink}`,
       sameAs: [site.googleProfile, site.instagram],
-      areaServed: [site.city, "Campo Bom", "São Leopoldo", "Estância Velha", "Vale do Sinos"],
+      areaServed: [site.city, "Novo Hamburgo", "Ivoti", "Dois Irmãos", "Campo Bom", "São Leopoldo", "Vale do Sinos"],
       workLocation: locations.slice(0, 1).map((location) => ({
         "@type": "Place",
         name: `Consultório em ${location.city}`,
@@ -36,13 +36,13 @@ const jsonLd = {
           streetAddress: location.address,
           addressLocality: location.city,
           addressRegion: site.state,
-          postalCode: "93336-001",
+          postalCode: "93600-000",
           addressCountry: "BR",
         },
         geo: {
           "@type": "GeoCoordinates",
-          latitude: -29.6911272,
-          longitude: -51.1396324,
+          latitude: -29.6476533,
+          longitude: -51.1748398,
         },
       })),
     },
@@ -55,7 +55,7 @@ const jsonLd = {
       priceRange: "$$",
       medicalSpecialty: "Nutrition",
       sameAs: [site.instagram, site.googleProfile],
-      areaServed: [site.city, "Campo Bom", "São Leopoldo", "Estância Velha", "Vale do Sinos"],
+      areaServed: [site.city, "Novo Hamburgo", "Ivoti", "Dois Irmãos", "Campo Bom", "São Leopoldo", "Vale do Sinos"],
       location: locations.slice(0, 1).map((location) => ({
         "@type": "Place",
         name: `Consultório em ${location.city}`,
@@ -64,13 +64,13 @@ const jsonLd = {
           streetAddress: location.address,
           addressLocality: location.city,
           addressRegion: site.state,
-          postalCode: "93336-001",
+          postalCode: "93600-000",
           addressCountry: "BR",
         },
         geo: {
           "@type": "GeoCoordinates",
-          latitude: -29.6911272,
-          longitude: -51.1396324,
+          latitude: -29.6476533,
+          longitude: -51.1748398,
         },
       })),
     },
@@ -219,7 +219,7 @@ const jsonLd = {
         </div>
         <div class="location-note">
           <span class="location-dot" aria-hidden="true"></span><span
-            >Consultas presenciais na Clínica Unifísio (Novo Hamburgo) e online para todo o Brasil</span
+            >Consultas presenciais em Estância Velha e online para todo o Brasil</span
           >
         </div>
       </div>
@@ -443,7 +443,7 @@ const jsonLd = {
             />
           </div>
           <div class="signature-card" aria-hidden="true">
-            <span>ML</span><small>estratégia que cabe na sua rotina</small>
+            <span>NM</span><small>estratégia que cabe na sua rotina</small>
           </div>
         </div>
         <div class="about-copy">

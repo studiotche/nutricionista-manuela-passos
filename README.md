@@ -1,30 +1,41 @@
-# Template Astro — Nutricionista local
+# Nutricionista Nibea Machado — Site Institucional & Conversão
 
-Modelo estático, responsivo e reutilizável para sites de nutricionistas, com SEO local, dados estruturados e foco em conversão pelo WhatsApp.
+Site institucional moderno, estático, responsivo e de alta performance para a **Nutricionista Nibea Machado** (CRN-2 19127D), com SEO local otimizado para Estância Velha/RS, dados estruturados (Schema.org) e foco em conversão via WhatsApp.
 
-## Personalização rápida
+## Stack
 
-1. Edite `src/data/site.ts` com nome, cidades, telefone, textos, especialidades, depoimentos e URL final.
-2. Substitua os arquivos `logo-gladisfeldmann.svg`, `hero-gladis.webp` e `sobre-gladis.webp` em `public/images`.
-3. Substitua `public/favicon-gladis.png` e atualize o monograma `GF` em `src/pages/index.astro`.
-4. Ajuste a URL do sitemap em `public/robots.txt`.
-5. Confirme dados profissionais, endereço, telefone e especialidades diretamente com a nutricionista.
+- [Astro](https://astro.build/) 6.0
+- TypeScript
+- Vanilla CSS com design tokens
+- Integração `@astrojs/sitemap`
 
-## Desenvolvimento
+## Imagens & Identidade Visual
+
+As referências e caminhos de imagens em `src/data/site.ts` estão configurados para:
+
+1. `logo`: `/assets/images/logo-nutricionista-nibea-machado.webp` (~320x80px SVG ou WebP com fundo transparente)
+2. `hero`: `/assets/images/hero-nibea-machado.webp` (~750x950px vertical)
+3. `heroMobile`: `/assets/images/hero-mobile-nibea-machado.webp` (~500x600px vertical)
+4. `about`: `/assets/images/sobre-nibea-machado.webp` (~600x750px vertical)
+5. `consultorio`: `/assets/images/consultorio-nibea-machado.webp` (~800x600px horizontal)
+6. `consultorioFachada`: `/assets/images/fachada-nibea-machado.webp` (~800x600px horizontal)
+7. `favicon`: `/assets/images/favicon-nibea-machado.webp` (~128x128px)
+
+Basta adicionar os arquivos com esses nomes na pasta `public/assets/images/` para atualizar as fotos da nutricionista.
+
+## Desenvolvimento Local
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Build e Cloudflare Pages
+## Build de Produção
 
 ```bash
 npm run build
 ```
 
-- Comando de build: `npm run build`
-- Diretório de saída: `dist`
-- Para um link temporário, defina `PUBLIC_SITE_PREVIEW=true` para gerar `noindex,nofollow`.
+## Deploy via GitHub Pages
 
-O conteúdo evita promessas clínicas e especialidades não confirmadas. Antes da publicação definitiva, valide o JSON-LD e envie o sitemap no Google Search Console.
+O deploy é automático na branch `main` através do workflow do GitHub Actions em `.github/workflows/astro.yml`.
