@@ -23,7 +23,7 @@ export const site = {
     "https://www.google.com/maps/place/Nutricionista+Manuela+B+Passos/@-29.6031014,-51.095848,17z/data=!3m1!4b1!4m6!3m5!1s0x21d6bbb076787d07:0x332cda8f6b770ee0!8m2!3d-29.6031014!4d-51.095848!16s%2Fg%2F11ldsyvmxm",
   googleRating: {
     score: "5,0",
-    reviews: 15,
+    reviews: 8,
   },
   mapsEmbedUrl:
     "https://maps.google.com/maps?q=-29.6031014,-51.095848&z=17&hl=pt-BR&output=embed",
