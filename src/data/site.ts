@@ -1,116 +1,116 @@
 export const site = {
-  name: "Nibea Machado",
-  role: "Nutricionista Clínica e Esportiva",
-  fullRole: "Nutricionista Clínica e Esportiva",
-  city: "Estância Velha",
+  name: "Manuela B. Passos",
+  role: "Nutricionista Materno-Infantil e Clínica",
+  fullRole: "Nutricionista Materno-Infantil e Clínica",
+  city: "Dois Irmãos",
   state: "RS",
-  region: "Estância Velha · Novo Hamburgo · Ivoti · Vale do Sinos · Online",
-  crn: "CRN-2 19127D",
+  region: "Dois Irmãos · Campo Bom · Novo Hamburgo · Vale do Sinos · Online",
+  crn: "CRN-2 18285D",
   credentials:
-    "Nutricionista graduada pela Universidade Feevale · Pós-graduada em Nutrição Esportiva · CRN-2 19127D",
-  phoneDisplay: "(51) 98906-8257",
-  phoneLink: "5551989068257",
-  telLink: "tel:+5551989068257",
+    "Nutricionista com foco em Nutrição Materno-Infantil e Clínica · CRN-2 18285D",
+  phoneDisplay: "(51) 99848-6447",
+  phoneLink: "5551998486447",
+  telLink: "tel:+5551998486447",
   email: "",
-  instagram: "https://www.instagram.com/nibeamachadonutri/",
+  instagram: "https://www.instagram.com/manuelabpassosnutri/",
   hours: [
     {
       days: "Atendimento particular",
-      time: "Presencial (Estância Velha) e Online · Agendamento via WhatsApp",
+      time: "Presencial (Dois Irmãos) e Online · Agendamento via WhatsApp",
     },
   ],
   googleProfile:
-    "https://www.google.com/maps/place/Nibea+Machado+-+Nutricionista+cl%C3%ADnica%2Fesportiva+em+Est%C3%A2ncia+Velha/@-29.6476533,-51.1748398,17z/data=!3m1!4b1!4m6!3m5!1s0x95194575334312ef:0x6c312b54c3f1beb4!8m2!3d-29.6476533!4d-51.1748398!16s%2Fg%2F11v9_llq32",
+    "https://www.google.com/maps/place/Nutricionista+Manuela+B+Passos/@-29.6031014,-51.095848,17z/data=!3m1!4b1!4m6!3m5!1s0x21d6bbb076787d07:0x332cda8f6b770ee0!8m2!3d-29.6031014!4d-51.095848!16s%2Fg%2F11ldsyvmxm",
   googleRating: {
     score: "5,0",
-    reviews: 30,
+    reviews: 15,
   },
   mapsEmbedUrl:
-    "https://maps.google.com/maps?q=-29.6476533,-51.1748398&z=17&hl=pt-BR&output=embed",
+    "https://maps.google.com/maps?q=-29.6031014,-51.095848&z=17&hl=pt-BR&output=embed",
   mapsUrl:
-    "https://www.google.com/maps/place/Nibea+Machado+-+Nutricionista+cl%C3%ADnica%2Fesportiva+em+Est%C3%A2ncia+Velha/@-29.6476533,-51.1748398,17z/data=!3m1!4b1!4m6!3m5!1s0x95194575334312ef:0x6c312b54c3f1beb4!8m2!3d-29.6476533!4d-51.1748398!16s%2Fg%2F11v9_llq32",
+    "https://www.google.com/maps/place/Nutricionista+Manuela+B+Passos/@-29.6031014,-51.095848,17z/data=!3m1!4b1!4m6!3m5!1s0x21d6bbb076787d07:0x332cda8f6b770ee0!8m2!3d-29.6031014!4d-51.095848!16s%2Fg%2F11ldsyvmxm",
   seo: {
     title:
-      "Nutricionista Clínica e Esportiva em Estância Velha - Nibea Machado",
+      "Nutricionista Materno-Infantil em Dois Irmãos - Manuela B. Passos",
     description:
-      "Nutricionista Nibea Machado (CRN-2 19127D): especialista em nutrição esportiva, hipertrofia, emagrecimento sustentável e reeducação alimentar em Estância Velha/RS e Online.",
-    url: "https://studiotche.github.io/nutricionista-nibea-machado/",
-    ogImage: "/assets/images/hero-nibea-machado.webp",
+      "Nutricionista Manuela B. Passos (CRN-2 18285D): especialista em nutrição para gestantes, introdução alimentar e reeducação alimentar em Dois Irmãos/RS e Online.",
+    url: "https://studiotche.github.io/nutricionista-manuela-passos/",
+    ogImage: "/assets/images/hero-manuela-passos.webp",
   },
   hero: {
-    eyebrow: "Nutrição Clínica & Esportiva · Saúde e Performance",
+    eyebrow: "Nutrição Materno-Infantil & Clínica · Cuidado em Cada Fase",
     title:
-      "Nutricionista Clínica e Esportiva em Estância Velha",
-    titleHighlight: "Nibea Machado",
+      "Nutricionista Materno-Infantil em Dois Irmãos",
+    titleHighlight: "Manuela B. Passos",
     tagline:
-      "Nutrição personalizada e com base científica <br/> para atingir suas metas com saúde e consistência",
+      "Nutrição com acolhimento, afeto e embasamento científico <br/> para o bem-estar da mãe, do bebê e de toda a família",
     description:
-      "Planejamento nutricional estratégico, prático e adaptado à sua rotina real. Conquiste seus objetivos em emagrecimento, hipertrofia, rendimento esportivo e saúde intestinal sem dietas punitivas ou terrorismo alimentar.",
+      "Acompanhamento nutricional individualizado e humanizado para gestantes, introdução alimentar e nutrição clínica da família. Estratégias reais, prazerosas e sem terrorismo alimentar que transformam sua rotina com leveza.",
   },
   about: {
-    eyebrow: "Muito prazer, sou a Nibea Machado!",
+    eyebrow: "Muito prazer, sou a Manuela B. Passos!",
     title:
-      "Nutrição esportiva e clínica com ciência, acolhimento e foco nos seus resultados",
-    titleHighlight: "foco nos seus resultados",
+      "Nutrição materno-infantil com ciência, empatia e respeito ao seu momento",
+    titleHighlight: "respeito ao seu momento",
     paragraphs: [
-      "Sou Nutricionista graduada pela Universidade Feevale (RS), com pós-graduação em Nutrição Esportiva e registro profissional CRN-2 19127D.",
-      "Acredito que o cuidado nutricional precisa ser estratégico e ao mesmo tempo viável. Minha missão é guiar você na conquista dos seus objetivos — seja o ganho de massa muscular (hipertrofia), emagrecimento sustentável, melhora na performance dos treinos, manejo de alergias alimentares ou reeducação alimentar — de forma descomplicada, segura e adaptada ao seu dia a dia.",
-      "Em cada atendimento, você encontra uma escuta atenta, plano alimentar flexível e acompanhamento contínuo pelo aplicativo e WhatsApp, proporcionando autonomia e bem-estar para toda a vida.",
+      "Sou Nutricionista com dedicação à Nutrição Materno-Infantil e Clínica, atuando com registro profissional CRN-2 18285D.",
+      "Acredito que alimentar quem amamos — e a nós mesmos — é um ato de afeto e cuidado que deve ser vivido sem pressões, culpas ou dietas restritivas. Minha atuação foca em apoiar famílias durante o planejamento da gestação, desenvolvimento da gestante, na fase encantadora da introdução alimentar dos bebês e na construção de um estilo de vida saudável para toda a casa.",
+      "Em cada consulta, você encontra uma escuta atenta, orientações acolhedoras e um plano adaptado à realidade da sua família, proporcionando tranquilidade e autonomia para uma alimentação equilibrada e feliz.",
     ],
   },
   assets: {
-    logo: "/assets/images/logo-nutricionista-nibea-machado.webp",
-    hero: "/assets/images/hero-nibea-machado.webp",
-    heroMobile: "/assets/images/hero-mobile-nibea-machado.webp",
-    about: "/assets/images/sobre-nibea-machado.webp",
+    logo: "/assets/images/logo-nutricionista-manuela-passos.webp",
+    hero: "/assets/images/hero-manuela-passos.webp",
+    heroMobile: "/assets/images/hero-mobile-manuela-passos.webp",
+    about: "/assets/images/sobre-manuela-passos.webp",
     processBg: "/assets/images/nutricionista-fundo-sessao-agende.webp",
-    consultorio: "/assets/images/consultorio-nibea-machado.webp",
-    consultorioFachada: "/assets/images/fachada-nibea-machado.webp",
-    favicon: "/assets/images/favicon-nibea-machado.webp",
+    consultorio: "/assets/images/consultorio-manuela-passos.webp",
+    consultorioFachada: "/assets/images/fachada-manuela-passos.webp",
+    favicon: "/assets/images/favicon-manuela-passos.webp",
   },
 } as const;
 
 export const specialties = [
   {
     number: "01",
-    icon: "/assets/images/corrida.svg",
-    title: "Nutrição Esportiva e Hipertrofia",
-    text: "Estratégia nutricional focada em ganho de massa magra, força e recuperação eficiente para atletas e praticantes de musculação e esportes.",
+    icon: "/assets/images/hormonal.svg",
+    title: "Nutrição para Gestantes e Pré-concepção",
+    text: "Acompanhamento cuidadoso para cada trimestre da gestação e pré-concepção, garantindo saúde materna e desenvolvimento seguro do bebê.",
     detail:
-      "Periodização e cálculo de macronutrientes individualizados para potencializar seus resultados no treino com energia e constância.",
+      "Manejo de sintomas gestacionais, orientações para exames e suplementação adequada sem a pressão de 'comer por dois'.",
   },
   {
     number: "02",
-    icon: "/assets/images/emagrecimento.svg",
-    title: "Emagrecimento Saudável e Sustentável",
-    text: "Perca peso e medidas de forma saudável comendo o que você gosta, sem dietas restritivas e preservando sua massa muscular.",
+    icon: "/assets/images/pessoas.svg",
+    title: "Nutrição Materno-Infantil e Introdução Alimentar",
+    text: "Guia prático e humanizado para o início da alimentação complementar, prevenindo e tratando a seletividade alimentar infantil.",
     detail:
-      "Plano flexível ajustado à sua rotina real, promovendo queima de gordura e evitando o indesejado efeito sanfona.",
+      "Construção de hábitos alimentares saudáveis e prazerosos desde os primeiros meses com métodos participativos e respeito aos sinais da criança.",
   },
   {
     number: "03",
     icon: "/assets/images/maca.svg",
-    title: "Nutrição Clínica e Reeducação Alimentar",
-    text: "Manejo nutricional para alergias alimentares, queixas digestivas, melhora da disposição diária e controle de marcadores de saúde.",
+    title: "Reeducação Alimentar e Nutrição Familiar",
+    text: "Plano alimentar equilibrado e flexível para toda a família, promovendo saúde, disposição e boa relação com a comida.",
     detail:
-      "Protocolos personalizados para saúde intestinal, imunidade e hábitos saudáveis para toda a vida.",
+      "Estratégias nutricionais que cabem na rotina real de casa, sem fórmulas mirabolantes ou dietas restritivas insustentáveis.",
   },
 ] as const;
 
 export const pillars = [
   {
     title: "Escuta e Avaliação Detalhada",
-    text: "Consulta cuidadosa para compreender seus hábitos, rotina de treinos, histórico de saúde e objetivos, com foco na sua individualidade.",
+    text: "Consulta cuidadosa para compreender os hábitos da família, histórico de saúde, rotina e necessidades particulares de cada fase.",
     icon: "/assets/images/pagina.svg",
   },
   {
-    title: "Plano Realista e Flexível",
-    text: "Cardápio personalizado com escolhas práticas, equilibradas e saborosas. Comer bem com prazer e sem terrorismo alimentar.",
+    title: "Plano Realista e Acolhedor",
+    text: "Orientações práticas e refeições saborosas ajustadas à rotina real da sua casa. Comer bem com afeto e equilíbrio.",
     icon: "/assets/images/alvo.svg",
   },
   {
     title: "Acompanhamento Contínuo",
-    text: "Suporte próximo com aplicativo (Dietbox) e WhatsApp para tirar dúvidas, ajustar rotas e apoiar sua evolução em cada etapa.",
+    text: "Suporte próximo via WhatsApp para tirar dúvidas, orientar receitas e apoiar a evolução da sua família em cada passo.",
     icon: "/assets/images/pessoas.svg",
   },
 ] as const;
@@ -123,78 +123,60 @@ export const testimonials: {
   profile?: string;
 }[] = [
   {
-    name: "Rosane Becker Flores",
-    city: "Estância Velha/RS",
-    text: "A Nubia é atenciosa e prestativa, gostei muito da consulta e do acompanhamento.",
+    name: "Tamiris",
+    city: "Dois Irmãos/RS",
+    text: "Profissional maravilhosa! Tem um vasto conhecimento! Indico muuuuito",
     profile: site.googleProfile,
   },
   {
-    name: "Caroline Dias Da Silva",
-    city: "Estância Velha/RS",
-    text: "Me conquistou! Falar sobre melhorar a qualidade de vida através de uma alimentação balanceada e compreender a minha rotina foi um super diferencial! Obrigada por se tornar me parceira nessa nova etapa da minha vida",
+    name: "Juliana Arcevenco (Ju Machado)",
+    city: "Dois Irmãos/RS",
+    text: "Manuela é maravilhosa, uma profissional exemplar. Atenção célere e responsável, além do carinho e empatia.",
     profile: site.googleProfile,
   },
   {
-    name: "Nádia dos Santos",
-    city: "Estância Velha/RS",
-    text: "Excelente atendimento! Fui por indicação e também indico. Plano alimentar conforme necessidade individual, sem receitas mirabolantes ou com ingredientes caros. Dieta fácil de manter.",
-    profile: site.googleProfile,
-  },
-  {
-    name: "Juliana Fuchs",
-    city: "Estância Velha/RS",
-    text: "Estou muito feliz com o atendimento, atenção da nutricionista. Me sinto com uma maior qualidade de vida desde que estou com o acompanhamento. Tive bons resultados físicos e \"mental\".",
-    profile: site.googleProfile,
-  },
-  {
-    name: "Aline Alessandra Müller",
-    city: "Estância Velha/RS",
-    text: "Iniciei o acompanhamento com a Nibea através de alergias alimentares ano passado, me acolhendo e desenvolvendo um plano singular, buscando receitas para que eu pudesse passar por esse desafio, desde então seguimos juntas e alcançando outros objetivos!",
-    profile: site.googleProfile,
-  },
-  {
-    name: "Gustavo Anacleto",
-    city: "Estância Velha/RS",
-    text: "Ótima profissional, super indico, adapta-se ao paciente, ajuda muito na sua dieta e em melhorar a saude.",
+    name: "Bruna Breier dos Passos",
+    city: "Dois Irmãos/RS",
+    text: "O atendimento foi de acordo com a minha realidade, a profissional é excelente e muito competente.",
     profile: site.googleProfile,
   },
 ];
 
 export const locations = [
   {
-    city: "Estância Velha",
-    address: "R. Adolfo Mattes, 350",
+    city: "Dois Irmãos",
+    address: "Rua Arnô Nienow, 206",
     district:
-      "Centro · Estância Velha/RS · CEP 93600-000",
-    type: "Presencial (Estância Velha) · Novo Hamburgo · Online",
+      "Dois Irmãos/RS · CEP 93950-000",
+    type: "Presencial (Dois Irmãos) · Vale do Sinos · Online",
   },
 ] as const;
 
 export const faqs = [
   [
     "Onde acontecem as consultas presenciais?",
-    "Os atendimentos presenciais acontecem na Rua Adolfo Mattes, 350, no Centro de Estância Velha/RS (espaço FisioHaus). Um ambiente moderno, acolhedor e com facilidade de acesso para pacientes de Estância Velha, Novo Hamburgo, Ivoti, Dois Irmãos e todo o Vale dos Sinos.",
+    "Os atendimentos presenciais acontecem na Rua Arnô Nienow, 206, em Dois Irmãos/RS. Um ambiente acolhedor, preparado para receber você e sua família com conforto, atendendo pacientes de Dois Irmãos, Campo Bom, Novo Hamburgo e toda a região do Vale dos Sinos.",
   ],
   [
-    "Você também realiza atendimentos online?",
-    "Sim! Realizo consultas nutricionais online completas por videochamada para pacientes de qualquer lugar do Brasil e do exterior, com o mesmo acolhimento, prontuário digital e acompanhamento de perto.",
+    "Como funcionam as consultas online?",
+    "As teleconsultas são realizadas por videochamada para famílias e gestantes de qualquer lugar do Brasil e do exterior. Você recebe o mesmo acolhimento, análise aprofundada e materiais de apoio diretamente pelo WhatsApp.",
   ],
   [
-    "O acompanhamento é indicado apenas para quem treina pesado?",
-    "Não! Embora a nutrição esportiva e a hipertrofia sejam áreas de destaque no meu trabalho, atendo qualquer pessoa que busque emagrecer com saúde, tratar queixas gastrointestinais e alergias alimentares ou simplesmente aprender a comer com equilíbrio.",
+    "A partir de qual idade você atende crianças?",
+    "Realizo acompanhamento nutricional desde a preparação para a introdução alimentar (em torno dos 6 meses de vida) até a infância completa, além do acompanhamento da gestante e puérpera.",
   ],
   [
-    "Vou precisar cortar tudo o que gosto para emagrecer?",
-    "De forma alguma! Trabalho com nutrição baseada em evidências e sem terrorismo alimentar. Você aprenderá como encaixar seus alimentos favoritos com equilíbrio, sem culpa e com foco na constância.",
+    "Vou precisar seguir uma dieta rígida ou cortar alimentos que gosto?",
+    "Não! Trabalho com uma abordagem sem terrorismo nutricional. O plano é construído em conjunto, respeitando suas preferências e a rotina da sua casa, priorizando uma relação leve com a comida.",
   ],
   [
     "Como funciona o suporte entre as consultas?",
-    "Você conta com suporte direto via WhatsApp e aplicativo de acompanhamento (Dietbox) para tirar dúvidas sobre refeições, rótulos e escolhas na rotina, garantindo total segurança durante o processo.",
+    "Você tem suporte direto comigo via WhatsApp para tirar dúvidas sobre introdução alimentar, receitas, rótulos e desafios do dia a dia, garantindo total segurança durante o processo.",
   ],
   [
     "Você avalia ou solicita exames laboratoriais?",
-    "Sim. Realizo análise clínica minuciosa e, quando necessário, solicito exames laboratoriais para verificar deficiências nutricionais, parâmetros metabólicos, lipídicos e hormonais com rigor técnico.",
+    "Sim. Durante a avaliação clínica e nutricional, analiso exames recentes e, quando pertinente, solicito exames para avaliar parâmetros de saúde e orientar eventuais suplementações com rigor técnico.",
   ],
 ] as const;
 
-export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Nibea! Gostaria de agendar uma consulta nutricional.")}`;
+export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Manuela! Gostaria de informações para agendar uma consulta nutricional.")}`;

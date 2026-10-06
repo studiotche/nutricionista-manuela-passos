@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studiotche.github.io/nutricionista-nibea-machado/sitemap-index.xml
+Sitemap: https://studiotche.github.io/nutricionista-manuela-passos/sitemap-index.xml
