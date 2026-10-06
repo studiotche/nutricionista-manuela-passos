@@ -164,14 +164,14 @@ a {
 
 .brand-mark {
   width: auto;
-  height: 54px;
+  height: 58px;
   object-fit: contain;
   flex-shrink: 0;
   display: block;
 }
 
 .header-brand-logo {
-  height: 54px;
+  height: 58px;
   width: auto;
   object-fit: contain;
 }
@@ -1959,17 +1959,19 @@ body.menu-open {
   }
 
   .header-inner {
-    min-height: 72px;
+    min-height: 76px;
   }
 
   html {
-    scroll-padding-top: 72px;
+    scroll-padding-top: 76px;
   }
 
-  .brand-mark {
-    width: 38px;
-    height: 38px;
-    border-radius: 10px;
+  .brand-mark,
+  .header-brand-logo {
+    width: auto;
+    height: 58px;
+    border-radius: 0;
+    object-fit: contain;
   }
 
   .brand-text strong {
