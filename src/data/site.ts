@@ -73,7 +73,7 @@ export const site = {
 export const specialties = [
   {
     number: "01",
-    icon: "/assets/images/hormonal.svg",
+    icon: "/assets/images/gravida.svg",
     title: "Nutrição para Gestantes e Pré-concepção",
     text: "Acompanhamento cuidadoso para cada trimestre da gestação e pré-concepção, garantindo saúde materna e desenvolvimento seguro do bebê.",
     detail:
@@ -81,7 +81,7 @@ export const specialties = [
   },
   {
     number: "02",
-    icon: "/assets/images/pessoas.svg",
+    icon: "/assets/images/mae.svg",
     title: "Nutrição Materno-Infantil e Introdução Alimentar",
     text: "Guia prático e humanizado para o início da alimentação complementar, prevenindo e tratando a seletividade alimentar infantil.",
     detail:
